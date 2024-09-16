@@ -25,7 +25,7 @@ h6{
     margin-top: 5px;
 }
 
-.text-azure{
+.azure-text{
     color: rgb(65, 200, 241);
 }
 
@@ -53,19 +53,19 @@ table{
 
 .first-row{
     background-color: rgb(81, 251, 251);
-    height: 50px;
+    height: 80px;
     text-align: left;
 }
 
 .second-row{
     background-color: white;
-    height: 50px;
+    height: 80px;
     text-align: left;
 }
 
 .third-row{
     background-color: rgb(81, 251, 251);
-    height: 50px;
+    height: 80px;
     text-align: left;
 }
 
@@ -75,4 +75,26 @@ table{
 
 .third-cell{
     width: 50%;
+}
+
+.grey-text{
+    color: grey;
+}
+
+.photo-text{
+    background-image: url("../img/monitor.jpg");
+    width: 250px;
+    height: 200px;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+.photo-text2{
+    background-image: url("../img/graph.jpg");
+    width: 250px;
+    height: 200px;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    margin-top: 20px;
 }
