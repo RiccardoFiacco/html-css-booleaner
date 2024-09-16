@@ -1,4 +1,3 @@
-
 .up-bar{
     background-color:rgb(64, 137, 233);
     background-image:url("../img/pattern.png");
@@ -17,23 +16,63 @@
 h5,h6{
     color: grey;
 }
+
 h5{
     margin-bottom: 5px;
 }
+
 h6{
     margin-top: 5px;
 }
+
 .text-azure{
     color: rgb(65, 200, 241);
 }
+
 .photo{
     margin-bottom: 0px;
 }
+
 .photo-description{
     font-size: 11px; 
 }
+
 .photo-description > p{
     margin: 0px;
 }
 
+table{
+    text-align: center;
+}
 
+.table-head{
+    background-color: rgb(2, 168, 224);
+    text-align: left;
+    color: white;
+}
+
+.first-row{
+    background-color: rgb(81, 251, 251);
+    height: 50px;
+    text-align: left;
+}
+
+.second-row{
+    background-color: white;
+    height: 50px;
+    text-align: left;
+}
+
+.third-row{
+    background-color: rgb(81, 251, 251);
+    height: 50px;
+    text-align: left;
+}
+
+.first-cell, .second-cell{
+    width: 25%;
+}
+
+.third-cell{
+    width: 50%;
+}
