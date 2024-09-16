@@ -1,18 +1,17 @@
 
-.up_bar{
+.up-bar{
     background-color:rgb(64, 137, 233);
     background-image:url("../img/pattern.png");
     height: 175px;   
 }
 
 .logo{
-    width: 25%;
+    width: 20%;
     padding-top: 80px;    
 }
 
-.titolo{
+.title{
     font-size: 60px; 
-    line-height: 25px;
 }
 
 h5,h6{
@@ -24,7 +23,17 @@ h5{
 h6{
     margin-top: 5px;
 }
-.Booleaner{
+.text-azure{
     color: rgb(65, 200, 241);
 }
+.photo{
+    margin-bottom: 0px;
+}
+.photo-description{
+    font-size: 11px; 
+}
+.photo-description > p{
+    margin: 0px;
+}
+
 
