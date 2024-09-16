@@ -1,0 +1,30 @@
+
+.up_bar{
+    background-color:rgb(64, 137, 233);
+    background-image:url("../img/pattern.png");
+    height: 175px;   
+}
+
+.logo{
+    width: 25%;
+    padding-top: 80px;    
+}
+
+.titolo{
+    font-size: 60px; 
+    line-height: 25px;
+}
+
+h5,h6{
+    color: grey;
+}
+h5{
+    margin-bottom: 5px;
+}
+h6{
+    margin-top: 5px;
+}
+.Booleaner{
+    color: rgb(65, 200, 241);
+}
+
